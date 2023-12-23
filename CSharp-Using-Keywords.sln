@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "record - Practice 01 (Libra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "record - Practice 01 (View)", "record - Practice 01 (View)\record - Practice 01 (View).csproj", "{C3500995-8774-450A-A748-CD4ACE7868D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "record - Practice 02", "record - Practice 02\record - Practice 02.csproj", "{0DDBB7FE-BD8F-4883-9246-9CB2BB621754}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C3500995-8774-450A-A748-CD4ACE7868D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3500995-8774-450A-A748-CD4ACE7868D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3500995-8774-450A-A748-CD4ACE7868D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DDBB7FE-BD8F-4883-9246-9CB2BB621754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDBB7FE-BD8F-4883-9246-9CB2BB621754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDBB7FE-BD8F-4883-9246-9CB2BB621754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDBB7FE-BD8F-4883-9246-9CB2BB621754}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
