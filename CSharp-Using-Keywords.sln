@@ -13,9 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struct - Practice 01 (Libra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "struct - Practice 01 (View)", "struct - Practice 01 (View)\struct - Practice 01 (View).csproj", "{078E3759-3D59-41D3-B918-A3A81F165EFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "record - Practice 01 (Library)", "record - Practice 01 (Library)\record - Practice 01 (Library).csproj", "{8DD4EAF9-0467-4EE3-9B3A-5D661C43477B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "record - Practice 01 (View)", "record - Practice 01 (View)\record - Practice 01 (View).csproj", "{C3500995-8774-450A-A748-CD4ACE7868D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "record - Practice 01", "record - Practice 01 (View)\record - Practice 01.csproj", "{C3500995-8774-450A-A748-CD4ACE7868D4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "record - Practice 02", "record - Practice 02\record - Practice 02.csproj", "{0DDBB7FE-BD8F-4883-9246-9CB2BB621754}"
 EndProject
@@ -45,10 +43,6 @@ Global
 		{078E3759-3D59-41D3-B918-A3A81F165EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{078E3759-3D59-41D3-B918-A3A81F165EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{078E3759-3D59-41D3-B918-A3A81F165EFB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8DD4EAF9-0467-4EE3-9B3A-5D661C43477B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8DD4EAF9-0467-4EE3-9B3A-5D661C43477B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8DD4EAF9-0467-4EE3-9B3A-5D661C43477B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8DD4EAF9-0467-4EE3-9B3A-5D661C43477B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C3500995-8774-450A-A748-CD4ACE7868D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C3500995-8774-450A-A748-CD4ACE7868D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3500995-8774-450A-A748-CD4ACE7868D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
