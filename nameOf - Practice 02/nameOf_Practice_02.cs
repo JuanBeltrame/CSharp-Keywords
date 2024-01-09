@@ -1,8 +1,8 @@
 ﻿using System.Threading.Channels;
 
-namespace _00._1_name_of
+namespace name_of
 {
-    public static class nameOf_Practice
+    public static class nameOf_Practice_02
     {
         static string miVariable = "Hola, Mundo";
 
